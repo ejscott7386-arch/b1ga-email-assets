@@ -1,0 +1,46 @@
+{
+  "built": "2026-10-16T09:23-05:00",
+  "model_sha256": "d6e099f07fff1d53328e24cf3a48231da5b3a06ad88042d52e0836337adf1854",
+  "seed_fingerprint": "ffe6b00fbf762c02d6165bef4c45140a91d24ec24c7493f5fef2ee6455591a64",
+  "sims": 40000,
+  "metric": "Probability of 6+ regular-season wins (bowl eligibility), raw simulation share, same as published p6",
+  "site_published": false,
+  "rows": [
+    {
+      "game_id": "401858491",
+      "matchup": "NU @ MSU",
+      "team_id": "77",
+      "team": "Northwestern",
+      "abbr": "NU",
+      "record": [
+        4,
+        1
+      ],
+      "baseline_bowl_elig_pct": 99.2,
+      "if_win_pct": 99.9,
+      "if_loss_pct": 97.6,
+      "sample_counts_home_win_away_win": [
+        10745,
+        29255
+      ]
+    },
+    {
+      "game_id": "401858491",
+      "matchup": "NU @ MSU",
+      "team_id": "127",
+      "team": "Michigan St",
+      "abbr": "MSU",
+      "record": [
+        2,
+        4
+      ],
+      "baseline_bowl_elig_pct": 8.9,
+      "if_win_pct": 22.3,
+      "if_loss_pct": 4.0,
+      "sample_counts_home_win_away_win": [
+        10745,
+        29255
+      ]
+    }
+  ]
+}
