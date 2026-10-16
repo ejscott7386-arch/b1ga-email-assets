@@ -1,0 +1,181 @@
+{
+  "built": "2026-10-16T08:36-05:00",
+  "model_sha256": "d6e099f07fff1d53328e24cf3a48231da5b3a06ad88042d52e0836337adf1854",
+  "seed_fingerprint": "ffe6b00fbf762c02d6165bef4c45140a91d24ec24c7493f5fef2ee6455591a64",
+  "power_built": "2026-10-16T08:35-05:00",
+  "fpi_updated": "2026-10-16T08:00Z",
+  "sims": 40000,
+  "w_fpi": 0.7,
+  "method": "Official unchanged season simulator; conditional sample split; same logit calibration/clamp as cfp_odds.js. All other games remain simulated. Reporting-only extraction for future games.",
+  "site_published": false,
+  "rows": [
+    {
+      "game_id": "401858488",
+      "matchup": "OSU @ IU",
+      "team_id": "194",
+      "team": "Ohio State",
+      "abbr": "OSU",
+      "record": [
+        5,
+        1
+      ],
+      "baseline_cfp_pct": 76.4,
+      "if_win_cfp_pct": 87.8,
+      "if_loss_cfp_pct": 65.4,
+      "swing_pp": 22.4,
+      "raw_sim_cfp_pct": 75.1,
+      "raw_if_win_pct": 87.05,
+      "raw_if_loss_pct": 63.76,
+      "home_away_sample_counts": [
+        20551,
+        19449
+      ],
+      "espn_playoff_pct": 76.9,
+      "eligibility": "Editorial review required; nonzero chance alone is not eligibility."
+    },
+    {
+      "game_id": "401858488",
+      "matchup": "OSU @ IU",
+      "team_id": "84",
+      "team": "Indiana",
+      "abbr": "IU",
+      "record": [
+        6,
+        0
+      ],
+      "baseline_cfp_pct": 90.9,
+      "if_win_cfp_pct": 97.4,
+      "if_loss_cfp_pct": 84.5,
+      "swing_pp": 13.0,
+      "raw_sim_cfp_pct": 95.2,
+      "raw_if_win_pct": 98.69,
+      "raw_if_loss_pct": 91.52,
+      "home_away_sample_counts": [
+        20551,
+        19449
+      ],
+      "espn_playoff_pct": 88.1,
+      "eligibility": "Editorial review required; nonzero chance alone is not eligibility."
+    },
+    {
+      "game_id": "401858491",
+      "matchup": "NU @ MSU",
+      "team_id": "77",
+      "team": "Northwestern",
+      "abbr": "NU",
+      "record": [
+        4,
+        1
+      ],
+      "baseline_cfp_pct": 12.4,
+      "if_win_cfp_pct": 15.7,
+      "if_loss_cfp_pct": 3.3,
+      "swing_pp": 12.4,
+      "raw_sim_cfp_pct": 8.7,
+      "raw_if_win_pct": 11.12,
+      "raw_if_loss_pct": 2.26,
+      "home_away_sample_counts": [
+        10745,
+        29255
+      ],
+      "espn_playoff_pct": 14.4,
+      "eligibility": "Editorial review required; nonzero chance alone is not eligibility."
+    },
+    {
+      "game_id": "401858492",
+      "matchup": "NEB @ ORE",
+      "team_id": "2483",
+      "team": "Oregon",
+      "abbr": "ORE",
+      "record": [
+        3,
+        2
+      ],
+      "baseline_cfp_pct": 9.4,
+      "if_win_cfp_pct": 13.7,
+      "if_loss_cfp_pct": 2.0,
+      "swing_pp": 11.7,
+      "raw_sim_cfp_pct": 8.4,
+      "raw_if_win_pct": 12.29,
+      "raw_if_loss_pct": 1.76,
+      "home_away_sample_counts": [
+        25311,
+        14689
+      ],
+      "espn_playoff_pct": 9.8,
+      "eligibility": "Editorial review required; nonzero chance alone is not eligibility."
+    },
+    {
+      "game_id": "401858492",
+      "matchup": "NEB @ ORE",
+      "team_id": "158",
+      "team": "Nebraska",
+      "abbr": "NEB",
+      "record": [
+        5,
+        1
+      ],
+      "baseline_cfp_pct": 20.1,
+      "if_win_cfp_pct": 35.9,
+      "if_loss_cfp_pct": 10.7,
+      "swing_pp": 25.2,
+      "raw_sim_cfp_pct": 18.6,
+      "raw_if_win_pct": 33.75,
+      "raw_if_loss_pct": 9.8,
+      "home_away_sample_counts": [
+        25311,
+        14689
+      ],
+      "espn_playoff_pct": 20.7,
+      "eligibility": "Editorial review required; nonzero chance alone is not eligibility."
+    },
+    {
+      "game_id": "401858494",
+      "matchup": "WIS @ UCLA",
+      "team_id": "26",
+      "team": "UCLA",
+      "abbr": "UCLA",
+      "record": [
+        5,
+        0
+      ],
+      "baseline_cfp_pct": 27.6,
+      "if_win_cfp_pct": 38.7,
+      "if_loss_cfp_pct": 14.1,
+      "swing_pp": 24.6,
+      "raw_sim_cfp_pct": 26.0,
+      "raw_if_win_pct": 36.8,
+      "raw_if_loss_pct": 13.13,
+      "home_away_sample_counts": [
+        21792,
+        18208
+      ],
+      "espn_playoff_pct": 28.3,
+      "eligibility": "Editorial review required; nonzero chance alone is not eligibility."
+    },
+    {
+      "game_id": "401858494",
+      "matchup": "WIS @ UCLA",
+      "team_id": "275",
+      "team": "Wisconsin",
+      "abbr": "WIS",
+      "record": [
+        4,
+        1
+      ],
+      "baseline_cfp_pct": 10.5,
+      "if_win_cfp_pct": 18.3,
+      "if_loss_cfp_pct": 3.8,
+      "swing_pp": 14.6,
+      "raw_sim_cfp_pct": 8.3,
+      "raw_if_win_pct": 14.76,
+      "raw_if_loss_pct": 2.93,
+      "home_away_sample_counts": [
+        21792,
+        18208
+      ],
+      "espn_playoff_pct": 11.6,
+      "eligibility": "Editorial review required; nonzero chance alone is not eligibility."
+    }
+  ]
+}
