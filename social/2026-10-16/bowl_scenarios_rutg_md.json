@@ -1,0 +1,46 @@
+{
+  "built": "2026-10-16T09:11-05:00",
+  "model_sha256": "d6e099f07fff1d53328e24cf3a48231da5b3a06ad88042d52e0836337adf1854",
+  "seed_fingerprint": "ffe6b00fbf762c02d6165bef4c45140a91d24ec24c7493f5fef2ee6455591a64",
+  "sims": 40000,
+  "metric": "Probability of 6+ regular-season wins (bowl eligibility), raw simulation share, same as published p6",
+  "site_published": false,
+  "rows": [
+    {
+      "game_id": "401858489",
+      "matchup": "RUTG @ MD",
+      "team_id": "164",
+      "team": "Rutgers",
+      "abbr": "RUTG",
+      "record": [
+        1,
+        4
+      ],
+      "baseline_bowl_elig_pct": 0.3,
+      "if_win_pct": 0.7,
+      "if_loss_pct": 0.1,
+      "sample_counts_home_win_away_win": [
+        27093,
+        12907
+      ]
+    },
+    {
+      "game_id": "401858489",
+      "matchup": "RUTG @ MD",
+      "team_id": "120",
+      "team": "Maryland",
+      "abbr": "MD",
+      "record": [
+        2,
+        4
+      ],
+      "baseline_bowl_elig_pct": 9.5,
+      "if_win_pct": 13.0,
+      "if_loss_pct": 2.0,
+      "sample_counts_home_win_away_win": [
+        27093,
+        12907
+      ]
+    }
+  ]
+}

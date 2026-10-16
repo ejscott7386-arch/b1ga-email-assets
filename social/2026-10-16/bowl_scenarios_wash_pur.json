@@ -1,0 +1,46 @@
+{
+  "built": "2026-10-16T09:11-05:00",
+  "model_sha256": "d6e099f07fff1d53328e24cf3a48231da5b3a06ad88042d52e0836337adf1854",
+  "seed_fingerprint": "ffe6b00fbf762c02d6165bef4c45140a91d24ec24c7493f5fef2ee6455591a64",
+  "sims": 40000,
+  "metric": "Probability of 6+ regular-season wins (bowl eligibility), raw simulation share, same as published p6",
+  "site_published": false,
+  "rows": [
+    {
+      "game_id": "401858493",
+      "matchup": "WASH @ PUR",
+      "team_id": "264",
+      "team": "Washington",
+      "abbr": "WASH",
+      "record": [
+        3,
+        3
+      ],
+      "baseline_bowl_elig_pct": 21.2,
+      "if_win_pct": 37.7,
+      "if_loss_pct": 9.4,
+      "sample_counts_home_win_away_win": [
+        23257,
+        16743
+      ]
+    },
+    {
+      "game_id": "401858493",
+      "matchup": "WASH @ PUR",
+      "team_id": "2509",
+      "team": "Purdue",
+      "abbr": "PUR",
+      "record": [
+        3,
+        3
+      ],
+      "baseline_bowl_elig_pct": 37.8,
+      "if_win_pct": 53.0,
+      "if_loss_pct": 16.7,
+      "sample_counts_home_win_away_win": [
+        23257,
+        16743
+      ]
+    }
+  ]
+}
